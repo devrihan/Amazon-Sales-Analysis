@@ -2,6 +2,9 @@
 # Power-Bi-Amazon-Sales-Dashboard
 The project presents an interactive Power BI dashboard analyzing Amazon's sales data.
 
+## 📊 Dashboard Preview
+![Amazon Sales Dashboard](images/dashboard.png)
+
 # Problem Statement 
 ## KPI's Requirement 
 YTD Sales : Monitor year-to-date sales to gauge the overall revenue performance over time.
